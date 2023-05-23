@@ -1,0 +1,14 @@
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\bin\Debug\netcoreapp3.1\Football.exe
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\bin\Debug\netcoreapp3.1\Football.deps.json
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\bin\Debug\netcoreapp3.1\Football.runtimeconfig.json
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\bin\Debug\netcoreapp3.1\Football.runtimeconfig.dev.json
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\bin\Debug\netcoreapp3.1\Football.dll
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\bin\Debug\netcoreapp3.1\Football.pdb
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\obj\Debug\netcoreapp3.1\Football.csproj.AssemblyReference.cache
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\obj\Debug\netcoreapp3.1\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\obj\Debug\netcoreapp3.1\Football.AssemblyInfoInputs.cache
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\obj\Debug\netcoreapp3.1\Football.AssemblyInfo.cs
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\obj\Debug\netcoreapp3.1\Football.csproj.CoreCompileInputs.cache
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\obj\Debug\netcoreapp3.1\Football.dll
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\obj\Debug\netcoreapp3.1\Football.pdb
+C:\Users\Latitude 5300\OneDrive\Документи\UNI\OOP_1\Football\Football\obj\Debug\netcoreapp3.1\Football.genruntimeconfig.cache
